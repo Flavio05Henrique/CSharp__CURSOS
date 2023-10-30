@@ -1,0 +1,22 @@
+# Pasta bin e obj
+bin/
+obj/
+
+# Pasta .vs (Visual Studio)
+.vs/
+
+# Pasta packages (NuGet)
+packages/
+
+# Arquivo .suo (Visual Studio Solution User Options)
+*.suo
+
+# Arquivo .user (configurações de usuário específicas do ambiente de desenvolvimento)
+*.user
+
+# Arquivo Web.config (ou appSettings.json) para configurações sensíveis
+Web.config
+appSettings.json
+
+# Pasta node_modules (caso esteja usando pacotes Node.js)
+node_modules/
